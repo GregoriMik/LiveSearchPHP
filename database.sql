@@ -3,8 +3,10 @@
 --
 
 -- --------------------------------------------------------
+-- If database testing not egsist use command CREATE DATABASE IF NOT EXISTS testing;
 
---
+-- Next import the code below
+
 -- Table structure for table `tbl_customer`
 --
 
